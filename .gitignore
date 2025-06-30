@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# FastAPI (Python)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env.*
+*.sqlite3
+instance/
+*.db
+*.egg-info/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+venv/
+ENV/
+env/
+.venv/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+
+# VSCode
+.vscode/
